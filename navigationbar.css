@@ -1,0 +1,43 @@
+body {
+    margin: 20px;
+    background-color: bisque;
+    color: indianred;
+    font-family: 'Athiti', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+nav,a {
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:visited {
+    color: saddlebrown;
+      }
+a:hover {
+    color: salmon;
+  }
+table, th, td {
+    color: crimson;
+    border:1px solid saddlebrown;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  td {
+    color: darkred;
+  }
+  div,contact {
+    border: 1px solid; 
+    width: 30vw;
+    border-radius: 5px;
+    padding: 50px;
+    box-sizing: border-box;
+  }
+  .fa-brands{
+    font-size: 3rem;
+    padding: 4px;
+    text-shadow: 2px 2px 4px;
+  }
+  .fa-facebook{
+    color: #0776e8;
+  }
